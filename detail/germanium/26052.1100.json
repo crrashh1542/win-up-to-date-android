@@ -4,7 +4,7 @@
         "branch": "ge_release_svc_prod1",
         "compileTime": "2024-02-02 15:41",
         "arch": ["AMD64", "ARM64"],
-        "counterpart": "Client & Server"
+        "counterpart": "Client"
     },
     "release": {
         "channel": "Dev",
@@ -13,13 +13,17 @@
         "announcePlace": "Windows Blogs"
     },
     "featureIds": {
-        "url": "https://github.com/riverar/mach2/blob/master/features/ge_release/amd64/26040.1000_26052.1000_diff.patch",
-        "fileName": "26040.1000_26052.1000_diff.patch"
+        "url": "https://github.com/riverar/mach2/blob/master/features/ge_release_svc_prod1/amd64/23620.1000_26052.1100_diff.patch",
+        "fileName": "23620.1000_26052.1100_diff.patch"
     },
     "nav": {
         "previous": {
             "category": "germanium",
             "build": "26052.1000"
+        },
+        "next": {
+            "category": "germanium",
+            "build": "26058.1000"
         }
     },
     "belongsTo": {
