@@ -1,0 +1,37 @@
+{
+    "build": {
+        "number": "26200.5001",
+        "branch": "ge_prerelease",
+        "compileTime": "2024-04-12 17:17",
+        "arch": ["AMD64", "ARM64"],
+        "counterpart": "Client"
+    },
+    "release": {
+        "channel": "Canary",
+        "time": "2024-04-19 17:00",
+        "url": "https://blogs.windows.com/windows-insider/2024/04/19/announcing-windows-11-insider-preview-build-26200-canary-channel/",
+        "announcePlace": "Windows Blogs"
+    },
+    "nav": {
+        "previous": {
+            "category": "germanium",
+            "build": "26100.2"
+        }
+    },
+    "belongsTo": {
+        "path": "germanium-upstream",
+        "name": "Germanium (Upstream)"
+    },
+    "updateId": [{
+        "arch": "AMD64",
+        "id": "046315a7-a833-4e0e-b623-81d254bc355f"
+    },
+    {
+        "arch": "ARM64",
+        "id": "2823c1a0-ffc7-4af1-89b2-376d23249198"
+    }],
+    "download": {
+        "name": "26200.5001.240412-1717.ge_prerelease_CLIENTPRO_OEMRET_X64FRE_zh-cn.iso",
+        "arch": "AMD64"
+    }
+}
