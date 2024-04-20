@@ -1,0 +1,39 @@
+{
+    "build": {
+        "number": "26100.2",
+        "branch": "ge_release_svc_oem",
+        "compileTime": "2024-04-05 16:17",
+        "arch": ["AMD64", "ARM64"],
+        "counterpart": "Client"
+    },
+    "release": {
+        "channel": "None",
+        "time": "2024-04-17 17:00"
+    },
+    "featureIds": {
+        "url": "https://github.com/riverar/mach2/blob/master/features/ge_release/amd64/26090.1_26100.1_diff.patch",
+        "fileName": "26090.1_26100.1_diff.patch"
+    },
+    "nav": {
+        "previous": {
+            "category": "germanium",
+            "build": "26100.1"
+        }
+    },
+    "belongsTo": {
+        "path": "germanium",
+        "name": "Germanium"
+    },
+    "updateId": [{
+        "arch": "AMD64",
+        "id": "f85d43a4-60e9-4607-8997-a761beb7ef77"
+    },
+    {
+        "arch": "ARM64",
+        "id": "a7c6c75e-5d2b-4d77-b7dd-5588614da877"
+    }],
+    "download": {
+        "name": "Windows11.0-KB5037941-x64.msu",
+        "arch": "AMD64"
+    }
+}
