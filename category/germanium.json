@@ -8,8 +8,12 @@
         "path": "gallium",
         "name": "Gallium"
     },
-    "next": null,
+    "next": {
+        "path": "germanium-upstream",
+        "name": "Germanium (Upstream)"
+    },
     "list": [
+        ["26100.2", "2024-04-17"],
         ["26100.1", "2024-04-03"],
         ["26090.112", "2024-03-29"],
         ["26090.1", "2024-03-28"],
