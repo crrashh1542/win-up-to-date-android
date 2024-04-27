@@ -20,6 +20,10 @@
         "previous": {
             "category": "germanium",
             "build": "26090.112"
+        },
+        "next": {
+            "category": "germanium",
+            "build": "26100.2"
         }
     },
     "belongsTo": {

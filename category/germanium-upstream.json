@@ -1,0 +1,14 @@
+{
+    "name": "Germanium (Upstream)",
+    "codename": "Germanium",
+    "belonging": "Windows 11",
+    "semester": "24H2",
+    "range": [26200, null],
+    "previous": {
+        "path": "germanium",
+        "name": "Germanium"
+    },
+    "list": [
+        ["26200.5001", "2024-04-19"]
+    ]
+}
