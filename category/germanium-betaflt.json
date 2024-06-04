@@ -1,0 +1,21 @@
+{
+    "name":"Germanium (Betaflt)",
+    "codename": "Germanium (Betaflt)",
+    "belonging": "Windows 11",
+    "semester": "24H2",
+    "range": [26120.461, null],
+    "previous": {
+        "path": "germanium",
+        "name": "Germanium"
+    },
+    "next": {
+        "path": "germanium-upstream",
+        "name": "Germanium (Upstream)"
+    },
+    "list": [
+        ["26100.751", "2024-05-31"],
+        ["26100.670", "2024-05-17"],
+        ["26100.470", "2024-05-10"],
+        ["26120.461", "2024-05-03"]
+    ]
+}

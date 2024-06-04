@@ -5,8 +5,8 @@
     "semester": "24H2",
     "range": [26200, null],
     "previous": {
-        "path": "germanium",
-        "name": "Germanium"
+        "path": "germanium-betaflt",
+        "name": "Germanium (Betaflt)"
     },
     "list": [
         ["26227.5000", "2024-05-30"],
