@@ -3,7 +3,7 @@
         "number": "26052.1100",
         "branch": "ge_release_svc_prod1",
         "compileTime": "2024-02-02 15:41",
-        "arch": ["AMD64", "ARM64"],
+        "arch": ["AMD64"],
         "counterpart": "Client"
     },
     "release": {
@@ -41,8 +41,12 @@
     "download": {
         "name": "Windows11.0-KB5035384-x64.msu",
         "link": [{
-            "url": "https://5y38gv-my.sharepoint.com/:u:/g/personal/store0_418_run/ETR3Y_SB7gVHjUTUC4LRe5sB9TBr8SVyXKaQJA_ck9s1LA?e=hiM6a6",
+            "url": "https://pan.huang1111.cn/s/WQGau3",
             "source": "OneDrive"
+        },
+        {
+            "url": "Internet Archive",
+            "source": "https://archive.org/download/windows-germanium-archive/Windows11.0-KB5035384-x64.msu"
         }],
         "arch": "AMD64",
         "md5": "6844865225afc4b0d54d8e146981a0e8",

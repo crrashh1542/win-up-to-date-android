@@ -40,6 +40,16 @@
     }],
     "download": {
         "name": "Windows11.0-KB5036082-x64.msu",
-        "arch": "AMD64"
+        "link": [{
+            "url": "https://pan.huang1111.cn/s/GXvlTW",
+            "source": "OneDrive"
+        },
+        {
+            "url": "https://archive.org/download/windows-germanium-archive/Windows11.0-KB5036082-x64.msu",
+            "source": "Internet Archive"
+        }],
+        "arch": "AMD64",
+        "md5": "64d6e3b8ddb67612982f76dd6ebe1a0f",
+        "sha256": "af86f0b6268450bbbbdc62c87676acfb60307e65ad77aa330af65dff67e2c5e9"
     }
 }

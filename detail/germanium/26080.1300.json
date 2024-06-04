@@ -40,6 +40,16 @@
     }],
     "download": {
         "name": "Windows11.0-KB5037139-x64.msu",
-        "arch": "AMD64"
+        "link": [{
+            "url": "https://pan.huang1111.cn/s/ALlZFB",
+            "source": "OneDrive"
+        },
+        {
+            "url": "https://archive.org/download/windows-germanium-archive/Windows11.0-KB5037139-x64.msu",
+            "source": "Internet Archive"
+        }],
+        "arch": "AMD64",
+        "md5": "72948a1abd859cd4e32b30e0dfc18ee4",
+        "sha256": "88d94b305e39f3d81f05a1091f184f51d694d70d3fb603a30ee009496c2690dc"
     }
 }
