@@ -40,6 +40,12 @@
     }],
     "download": {
         "name": "26058.1000.240209-1555.ge_release_CLIENTPRO_OEMRET_X64FRE_zh-cn.iso",
-        "arch": "AMD64"
+        "link": [{
+            "url": "https://pan.baidu.com/s/11GDK0ovP6vU5WP5PoX0hig?pwd=2333",
+            "source": "百度网盘"
+        }],
+        "arch": "AMD64",
+        "md5": "b159996fbaa34a24c42d327e816c0d13",
+        "sha256": "27bae92b18d1608437071c2c1ee038b5cbf54d9df57d399e1c7eb29a4cdf97e7"
     }
 }
