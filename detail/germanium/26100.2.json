@@ -10,14 +10,14 @@
         "channel": "None",
         "time": "2024-04-17 17:00"
     },
-    "featureIds": {
-        "url": "https://github.com/riverar/mach2/blob/master/features/ge_release/amd64/26090.1_26100.1_diff.patch",
-        "fileName": "26090.1_26100.1_diff.patch"
-    },
     "nav": {
         "previous": {
             "category": "germanium",
             "build": "26100.1"
+        },
+        "next": {
+            "category": "germanium",
+            "build": "26100.268"
         }
     },
     "belongsTo": {
