@@ -12,10 +12,18 @@
         "url": "https://blogs.windows.com/windows-insider/2024/04/19/announcing-windows-11-insider-preview-build-26200-canary-channel/",
         "announcePlace": "Windows Blogs"
     },
+    "featureIds": {
+        "url": "https://github.com/riverar/mach2/blob/master/features/ge_prerelease/amd64/26100.1_26200.5001_diff.patch",
+        "fileName": "26100.1_26200.5001_diff.patch"
+    },
     "nav": {
         "previous": {
-            "category": "germanium",
-            "build": "26100.2"
+            "category": "germanium-betaflt",
+            "build": "26120.751"
+        },
+        "next": {
+            "category": "germanium-upstream",
+            "build": "26212.5000"
         }
     },
     "belongsTo": {
@@ -32,6 +40,16 @@
     }],
     "download": {
         "name": "26200.5001.240412-1717.ge_prerelease_CLIENTPRO_OEMRET_X64FRE_zh-cn.iso",
-        "arch": "AMD64"
+        "link": [{
+            "url": "https://pan.huang1111.cn/s/ZMXkTL",
+            "source": "OneDrive"
+        },
+        {
+            "url": "https://pan.baidu.com/s/15ugH6uq2xmqYeB0pvGUDKg?pwd=2333",
+            "source": "百度网盘"
+        }],
+        "arch": "AMD64",
+        "md5": "9a9e4d61940f2931501c7bc382d610af",
+        "sha256": "34ec267d49208625fd3d8caa70528e730e909f8a2490f3eec720b4bc4828f073"
     }
 }
