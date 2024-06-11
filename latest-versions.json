@@ -161,7 +161,7 @@
                 "period": "24H2"
             },
             {
-                "name": "预览版 (v2025)",
+                "name": "预览版 (2025)",
                 "style": "color-green",
                 "category": "germanium",
                 "version": "26085.1",
@@ -170,7 +170,7 @@
                 "period": "24H2"
             },
             {
-                "name": "年度频道 (2023)",
+                "name": "年度频道 (23H2)",
                 "style": "color-theme",
                 "version": "25398.950",
                 "branch": "zn_release_svc_prod1",
@@ -178,7 +178,7 @@
                 "period": "23H2"
             },
             {
-                "name": "LTSC & GA (v2022)",
+                "name": "LTSC & GA (2022)",
                 "style": "color-theme",
                 "version": "20349.2527",
                 "branch": "22h2_fe_release_svc_prod1",
@@ -186,7 +186,7 @@
                 "period": "22H2"
             },
             {
-                "name": "LTSC (v2022)",
+                "name": "LTSC (2022)",
                 "style": "color-teal",
                 "version": "20348.2527",
                 "branch": "fe_release_svc_prod1",
@@ -194,7 +194,7 @@
                 "period": "21H2"
             },
             {
-                "name": "LTSC (v2019)",
+                "name": "LTSC (2019)",
                 "style": "color-teal",
                 "version": "17763.5830",
                 "branch": "rs5_release_svc_im",
@@ -202,7 +202,7 @@
                 "period": "1809"
             },
 {
-                "name": "LTSC (v2016)",
+                "name": "LTSC (2016)",
                 "style": "color-teal",
                 "version": "14393.6981",
                 "branch": "rs1_release",
