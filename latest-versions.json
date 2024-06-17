@@ -32,8 +32,8 @@
             {
                 "name": "发布预览",
                 "style": "color-purple",
-                "version": "26100.712",
-                "branch": "ge_release_svc_prod3",
+                "version": "26100.863",
+                "branch": "ge_release_svc_im",
                 "codename": "Germanium",
                 "category": "germanium",
                 "period": "24H2"
@@ -189,8 +189,8 @@
                 "name": "预览版 (2025)",
                 "style": "color-green",
                 "category": "germanium",
-                "version": "26100.560",
-                "branch": "ge_release_svc_prod1",
+                "version": "26100.863",
+                "branch": "ge_release_svc_im",
                 "codename": "Germanium",
                 "period": "24H2"
             },
