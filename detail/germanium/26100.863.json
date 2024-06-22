@@ -2,7 +2,7 @@
     "build": {
         "number": "26100.863",
         "branch": "ge_release_svc_im",
-        "compileTime": "2024-04-08 17:20",
+        "compileTime": "2024-06-13 12:31",
         "arch": ["AMD64", "ARM64"],
         "counterpart": "Client"
     },
