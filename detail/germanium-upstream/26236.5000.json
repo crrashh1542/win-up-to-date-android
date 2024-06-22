@@ -20,6 +20,10 @@
         "previous": {
             "category": "germanium-upstream",
             "build": "26231.5000"
+        },
+        "next": {
+            "category": "germanium-upstream",
+            "build": "26241.5000"
         }
     },
     "belongsTo": {
@@ -36,7 +40,7 @@
     },
     {
         "arch": "ARM64 (Client)",
-        "id": "d55ca98b-3bb8-4f90-a8f7-a9913716c180"
+        "id": "ec74a055-8c3f-467a-96ad-ed5c79e67cd0"
     },
     {
         "arch": "ARM64 (Server)",

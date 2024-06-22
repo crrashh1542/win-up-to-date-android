@@ -6,7 +6,7 @@
             {
                 "name": "Canary",
                 "style": "color-amber",
-                "version": "26236.5000",
+                "version": "26241.5000",
                 "branch": "ge_prerelease",
                 "codename": "Germanium",
                 "category": "germanium-upstream",
