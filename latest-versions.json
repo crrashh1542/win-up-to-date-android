@@ -32,7 +32,7 @@
             {
                 "name": "发布预览",
                 "style": "color-purple",
-                "version": "26100.994",
+                "version": "26100.1000",
                 "branch": "ge_release_svc_prod3",
                 "codename": "Germanium",
                 "category": "germanium",
