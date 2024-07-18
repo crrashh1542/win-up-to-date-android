@@ -20,6 +20,10 @@
         "previous": {
             "category": "germanium-upstream",
             "build": "26241.5000"
+        },
+        "next": {
+            "category": "germanium-upstream",
+            "build": "26252.5000"
         }
     },
     "belongsTo": {
