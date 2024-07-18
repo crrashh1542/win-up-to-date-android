@@ -24,7 +24,7 @@
             {
                 "name": "Beta",
                 "style": "color-green",
-                "version": "22635.3858",
+                "version": "22635.3930",
                 "branch": "ni_release_betaflt_svc_prod1",
                 "codename": "Nickel",
                 "period": "23H2"
@@ -41,8 +41,8 @@
             {
                 "name": "发布预览",
                 "style": "color-purple",
-                "version": "22631.3880",
-                "branch": "23h2_ni_release_svc_prod1",
+                "version": "22631.3951",
+                "branch": "23h2_ni_release_svc_prod2",
                 "codename": "Nickel",
                 "period": "23H2"
             },
@@ -75,7 +75,64 @@
     {
         "category": "内部版本",
         "style": "w-icon-chemical",
-        "releases": []
+        "releases": [
+            {
+                "name": "Dev",
+                "style": "color-orange",
+                "version": "26120.1260",
+                "branch": "ge_release_svc_betaflt_?",
+                "codename": "Germanium",
+                "period": "24H2"
+            },
+            {
+                "name": "24H2",
+                "style": "color-theme",
+                "version": "26100.1293",
+                "branch": "ge_release_svc_prod?",
+                "codename": "Germanium",
+                "period": "24H2"
+            },
+            {
+                "name": "Server 23H2",
+                "style": "color-theme",
+                "version": "25398.1062",
+                "branch": "zn_release_svc_prod1",
+                "codename": "Zinc",
+                "period": "23H2"
+            },
+            {
+                "name": "发布预览",
+                "style": "color-purple",
+                "version": "22631.3954",
+                "branch": "23h2_ni_release_svc_prod(2/3)",
+                "codename": "Nickel",
+                "period": "23H2"
+            },
+            {
+                "name": "正式通道",
+                "style": "color-theme",
+                "version": "22000.3132",
+                "branch": "co_release_svc_prod1",
+                "codename": "Cobalt",
+                "period": "21H2"
+            },
+            {
+                "name": "Server 2022",
+                "style": "color-theme",
+                "version": "20348.2634",
+                "branch": "22h2_fe_release_svc_prod1",
+                "codename": "Iron",
+                "period": "22H2"
+            },
+            {
+                "name": "发布预览",
+                "style": "color-purple",
+                "version": "19045.4717",
+                "branch": "22h2_release_svc_prod(2/3)",
+                "codename": "Vibranium",
+                "period": "22H2"
+            }
+        ]
     },
     {
         "category": "Windows 10",
@@ -84,16 +141,16 @@
             {
                 "name": "Beta",
                 "style": "color-green",
-                "version": "19045.4651",
-                "branch": "22h2_release_svc_prod1",
+                "version": "19045.4713",
+                "branch": "22h2_release_svc_prod2",
                 "codename": "Vibranium",
                 "period": "22H2"
             },
             {
                 "name": "发布预览",
                 "style": "color-purple",
-                "version": "19045.4651",
-                "branch": "22h2_release_svc_prod1",
+                "version": "19045.4713",
+                "branch": "22h2_release_svc_prod2",
                 "codename": "Vibranium",
                 "period": "22H2"
             },
@@ -155,7 +212,7 @@
                 "name": "预览版 (v.Next)",
                 "style": "color-amber",
                 "category": "germanium-upstream",
-                "version": "26244.5000",
+                "version": "26252.5000",
                 "branch": "ge_prerelease",
                 "codename": "Germanium",
                 "period": "24H2"
@@ -201,7 +258,7 @@
                 "codename": "Redstone",
                 "period": "1809"
             },
-{
+            {
                 "name": "LTSC (2016)",
                 "style": "color-teal",
                 "version": "14393.7159",
