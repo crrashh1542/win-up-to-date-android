@@ -75,48 +75,7 @@
     {
         "category": "内部版本",
         "style": "w-icon-chemical",
-        "releases": [
-            {
-                "name": "Dev",
-                "style": "color-orange",
-                "version": "26120.973",
-                "branch": "ge_release_svc_betaflt_prod1",
-                "codename": "Germanium",
-                "period": "24H2"
-            },
-            {
-                "name": "Dev",
-                "style": "color-orange",
-                "version": "26120.1060",
-                "branch": "ge_release_svc_betaflt_prod1",
-                "codename": "Germanium",
-                "period": "24H2"
-            },
-            {
-                "name": "Dev",
-                "style": "color-orange",
-                "version": "26120.1250",
-                "branch": "ge_release_svc_betaflt_prod1",
-                "codename": "Germanium",
-                "period": "24H2"
-            },
-            {
-                "name": "发布预览",
-                "style": "color-purple",
-                "version": "22631.3950",
-                "branch": "23h2_ni_release_svc_prod(2/3)",
-                "codename": "Nickel",
-                "period": "23H2"
-            },
-            {
-                "name": "发布预览",
-                "style": "color-purple",
-                "version": "19045.4712",
-                "branch": "22h2_release_svc_prod1",
-                "codename": "Vibranium",
-                "period": "22H2"
-            }
-        ]
+        "releases": []
     },
     {
         "category": "Windows 10",
@@ -283,7 +242,7 @@
             {
                 "name": "发布预览",
                 "style": "color-purple",
-                "version": "26100.560",
+                "version": "26100.1150",
                 "branch": "ge_release_svc_prod1",
                 "codename": "Germanium",
                 "period": "24H2"
