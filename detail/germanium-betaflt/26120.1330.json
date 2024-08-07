@@ -18,8 +18,8 @@
             "build": "26120.1252"
         },
         "next": {
-            "category": "germanium-upstream",
-            "build": "26200.5001"
+            "category": "germanium-betaflt",
+            "build": "26120.1340"
         }
     },
     "belongsTo": {
