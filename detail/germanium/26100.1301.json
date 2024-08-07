@@ -1,6 +1,6 @@
 {
     "build": {
-        "number": "26100.1297",
+        "number": "26100.1301",
         "branch": "ge_release_svc_prod3",
         "compileTime": "2024-07-18 21:35",
         "arch": ["AMD64", "ARM64"],
@@ -8,18 +8,18 @@
     },
     "release": {
         "channel": "Release Preview",
-        "time": "2024-07-25 17:00",
-        "url": "https://blogs.windows.com/windows-insider/2024/07/25/releasing-windows-11-build-26100-1297-to-the-release-preview-channel/",
-        "announcePlace": "Windows Blogs"
+        "time": "2024-07-30 21:00",
+        "url": "https://support.microsoft.com/topic/89f3ad4f-a5fe-4065-b217-01e622133ca1",
+        "announcePlace": "Microsoft Support"
     },
     "nav": {
         "previous": {
             "category": "germanium",
-            "build": "26100.1150"
+            "build": "26100.1297"
         },
         "next": {
-            "category": "germanium",
-            "build": "26100.1301"
+            "category": "germanium-betaflt",
+            "build": "26120.461"
         }
     },
     "belongsTo": {
@@ -28,20 +28,20 @@
     },
     "updateId": [{
         "arch": "AMD64",
-        "id": "25d726e0-fe39-4610-ad90-460341bff3c2"
+        "id": "48ea7c96-b1fb-4a82-9aee-669f44956da7"
     },
     {
         "arch": "ARM64",
-        "id": "73b566c8-b2e4-4af2-a7db-cac0b5fcd3ed"
+        "id": "14bec900-8b46-42c8-babe-0cf6ffb17123"
     }],
     "download": {
         "name": "Windows11.0-KB5040529-x64.msu",
         "link": [{
-            "url": "https://pan.huang1111.cn/s/ZqqQVUL",
+            "url": "https://pan.huang1111.cn/s/mxVE8F1",
             "source": "OneDrive"
         }],
         "arch": "AMD64",
-        "md5": "89206fe4a028ee8a820edbf0d7355b52",
-        "sha256": "1fbd44f9d4a39eb94559524b951883d9a76ec06795e8e662a877eb6f8ab29fa2"
+        "md5": "c6ca194c157ffc5edd96744e58cc5889",
+        "sha256": "27acab1f038c7223e17c5ad303a8b4f2ea7acbb27cc9ea4d15883157d9a6836a"
     }
 }
