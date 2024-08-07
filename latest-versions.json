@@ -77,9 +77,17 @@
         "style": "w-icon-chemical",
         "releases": [
             {
+                "name": "Dev",
+                "style": "color-orange",
+                "version": "26120.1350",
+                "branch": "ge_release_svc_betaflt_prod1",
+                "codename": "Germanium",
+                "period": "24H2"
+            },
+            {
                 "name": "24H2",
                 "style": "color-theme",
-                "version": "26100.1430",
+                "version": "26100.1449",
                 "branch": "ge_release_svc_prod1",
                 "codename": "Germanium",
                 "period": "24H2"
@@ -87,7 +95,7 @@
             {
                 "name": "Server 23H2",
                 "style": "color-theme",
-                "version": "25398.1074",
+                "version": "25398.1079",
                 "branch": "zn_release_svc_prod1",
                 "codename": "Zinc",
                 "period": "23H2"
@@ -95,7 +103,7 @@
             {
                 "name": "发布预览",
                 "style": "color-purple",
-                "version": "22631.4028",
+                "version": "22631.4032",
                 "branch": "23h2_ni_release_svc_prod1",
                 "codename": "Nickel",
                 "period": "23H2"
@@ -119,7 +127,7 @@
             {
                 "name": "发布预览",
                 "style": "color-purple",
-                "version": "19045.4767",
+                "version": "19045.4774",
                 "branch": "22h2_release_svc_prod1",
                 "codename": "Vibranium",
                 "period": "22H2"
