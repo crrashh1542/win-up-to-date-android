@@ -32,8 +32,8 @@
             {
                 "name": "24H2",
                 "style": "color-theme",
-                "version": "26100.1301",
-                "branch": "ge_release_svc_prod3",
+                "version": "26100.1457",
+                "branch": "ge_release_svc_prod1",
                 "codename": "Germanium",
                 "category": "germanium",
                 "period": "24H2"
