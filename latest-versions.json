@@ -6,11 +6,11 @@
             {
                 "name": "Canary",
                 "style": "color-amber",
-                "version": "26257.5000",
-                "branch": "ge_prerelease",
-                "codename": "Germanium",
-                "category": "germanium-upstream",
-                "period": "24H2"
+                "version": "27686.1000",
+                "branch": "rs_prerelease",
+                "codename": "dilithium",
+                "category": "Dilithium",
+                "period": "25H1"
             },
             {
                 "name": "Dev",

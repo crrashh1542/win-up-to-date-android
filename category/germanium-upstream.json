@@ -8,6 +8,10 @@
         "path": "germanium-betaflt",
         "name": "Germanium (Betaflt)"
     },
+    "next": {
+        "path": "dilithium",
+        "name": "Dilithium"
+    },
     "list": [
         ["26257.5000", "2024-07-24"],
         ["26252.5000", "2024-07-10"],

@@ -1,0 +1,14 @@
+{
+    "name": "Dilithium",
+    "codename": "Dilithium",
+    "belonging": "Windows 11",
+    "semester": "25H1",
+    "range": [27686, null],
+    "previous": {
+        "path": "germanium-upstream",
+        "name": "Germanium (Upstream)"
+    },
+    "list": [
+        ["27686.1000", "2024-08-15"]
+    ]
+}
