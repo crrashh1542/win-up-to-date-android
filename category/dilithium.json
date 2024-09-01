@@ -3,7 +3,7 @@
     "codename": "Dilithium",
     "belonging": "Windows 11",
     "semester": "25H1",
-    "range": [27686, null],
+    "range": [27548, 27690],
     "previous": {
         "path": "germanium-upstream",
         "name": "Germanium (Upstream)"

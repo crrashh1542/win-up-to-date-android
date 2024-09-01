@@ -6,11 +6,11 @@
             {
                 "name": "Canary",
                 "style": "color-amber",
-                "version": "27686.1000",
+                "version": "27695.1000",
                 "branch": "rs_prerelease",
-                "codename": "Dilithium",
-                "category": "dilithium",
-                "period": "25H1"
+                "codename": "Selenium",
+                "category": "selenium",
+                "period": "25H2"
             },
             {
                 "name": "Dev",
@@ -24,7 +24,7 @@
             {
                 "name": "Beta",
                 "style": "color-green",
-                "version": "22635.4076",
+                "version": "22635.4082",
                 "branch": "ni_release_betaflt_svc_prod1",
                 "codename": "Nickel",
                 "period": "23H2"
@@ -50,7 +50,7 @@
             {
                 "name": "发布预览",
                 "style": "color-purple",
-                "version": "22631.4108",
+                "version": "22631.4112",
                 "branch": "23h2_ni_release_svc_prod3",
                 "codename": "Nickel",
                 "period": "23H2"
@@ -86,6 +86,22 @@
         "style": "w-icon-chemical",
         "releases": [
             {
+                "name": "Dev",
+                "style": "color-orange",
+                "version": "26120.1557",
+                "branch": "ge_release_svc_betaflt_prod1",
+                "codename": "Germanium",
+                "period": "24H2"
+            },
+            {
+                "name": "Dev",
+                "style": "color-orange",
+                "version": "26120.1620",
+                "branch": "ge_release_svc_betaflt_prod1",
+                "codename": "Germanium",
+                "period": "24H2"
+            },
+            {
                 "name": "24H2",
                 "style": "color-theme",
                 "version": "26100.1591",
@@ -104,15 +120,15 @@
             {
                 "name": "发布预览",
                 "style": "color-purple",
-                "version": "22631.4112",
-                "branch": "23h2_ni_release_svc_prod(2/3)",
+                "version": "22631.4164",
+                "branch": "23h2_ni_release_svc_prod1",
                 "codename": "Nickel",
                 "period": "23H2"
             },
             {
                 "name": "正式通道",
                 "style": "color-theme",
-                "version": "22000.3193",
+                "version": "22000.3194",
                 "branch": "co_release_svc_prod1",
                 "codename": "Cobalt",
                 "period": "21H2"

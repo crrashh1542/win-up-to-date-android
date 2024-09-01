@@ -1,0 +1,14 @@
+{
+    "name": "Selenium",
+    "codename": "Selenium",
+    "belonging": "Windows 11",
+    "semester": "25H2",
+    "range": [27691, null],
+    "previous": {
+        "path": "dilithium",
+        "name": "Dilithium"
+    },
+    "list": [
+        ["27695.1000", "2024-08-30"]
+    ]
+}
