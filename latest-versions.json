@@ -32,7 +32,7 @@
             {
                 "name": "发布预览",
                 "style": "color-purple",
-                "version": "26100.1586",
+                "version": "26100.1591",
                 "branch": "ge_release_svc_prod3",
                 "codename": "Germanium",
                 "category": "germanium",
@@ -41,7 +41,7 @@
             {
                 "name": "24H2",
                 "style": "color-theme",
-                "version": "26100.1457",
+                "version": "26100.1591",
                 "branch": "ge_release_svc_prod1",
                 "codename": "Germanium",
                 "category": "germanium",
@@ -237,7 +237,7 @@
                 "name": "预览版 (v.Next)",
                 "style": "color-amber",
                 "category": "germanium-upstream",
-                "version": "26252.5000",
+                "version": "26280.5000",
                 "branch": "ge_prerelease",
                 "codename": "Germanium",
                 "period": "24H2"
