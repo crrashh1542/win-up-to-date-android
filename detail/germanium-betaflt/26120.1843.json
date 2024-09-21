@@ -1,8 +1,8 @@
 {
     "build": {
-        "number": "26120.1542",
+        "number": "26120.1843",
         "branch": "ge_release_svc_betaflt_prod1",
-        "compileTime": "2024-08-11 11:19",
+        "compileTime": "2024-09-13 22:09",
         "arch": ["AMD64", "ARM64"],
         "counterpart": "Client"
     },
@@ -18,8 +18,8 @@
             "build": "26120.1340"
         },
         "next": {
-            "category": "germanium-betaflt",
-            "build": "26120.1843"
+            "category": "germanium-upstream",
+            "build": "26200.5001"
         }
     },
     "belongsTo": {
@@ -28,20 +28,20 @@
     },
     "updateId": [{
         "arch": "AMD64",
-        "id": "2bf57e55-e7da-47c8-8221-8222b14ed79c"
+        "id": "e27f002d-e3b6-4f24-a4d8-8b09d279fe5b"
     },
     {
         "arch": "ARM64",
-        "id": "d13cbcd4-184f-4fd5-807b-2f94fb2de570"
+        "id": "d0fe8e34-c34e-4565-9ec8-e2c8fca2f0dc"
     }],
     "download": {
-        "name": "Windows11.0-KB5041872-x64.msu",
+        "name": "Windows11.0-KB5043185-x64.msu",
         "link": [{
-            "url": "https://pan.huang1111.cn/s/75eKRSg",
+            "url": "https://pan.huang1111.cn/s/XqnXOtl",
             "source": "OneDrive"
         }],
         "arch": "AMD64",
-        "md5": "ef8fd8adee8ab8b3d3b9ac8c40a1dfa5",
-        "sha256": "6d8921493a7323eb61e6fe561de33dc58ad60a06fe6dbade62d2881b9464ba3c"
+        "md5": "f23472d2d9ef913ab5244933550dedac",
+        "sha256": "5d88f931bfa128a7c6b9a304472fe5eb5e9af3924a56fe88874ce662949e4cf9"
     }
  }
