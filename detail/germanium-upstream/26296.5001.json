@@ -1,0 +1,44 @@
+{
+    "build": {
+        "number": "26296.5001",
+        "branch": "ge_prerelease",
+        "compileTime": "2024-09-20 18:08",
+        "arch": ["AMD64", "ARM64"],
+        "counterpart": "Server"
+    },
+    "release": {
+        "channel": "Preview",
+        "time": "2024-09-27 17:00",
+        "url": "https://techcommunity.microsoft.com/t5/windows-server-insiders/announcing-windows-server-preview-build-26296/m-p/4257103",
+        "announcePlace": "Microsoft Tech Community"
+    },
+    "nav": {
+        "previous": {
+            "category": "germanium-upstream",
+            "build": "26280.5000"
+        },
+        "next": {
+            "category": "dilithium",
+            "build": "27686.1000"
+        }
+    },
+    "belongsTo": {
+        "path": "germanium-upstream",
+        "name": "Germanium (Upstream)"
+    },
+    "updateId": [{
+        "arch": "AMD64",
+        "id": "9e38e211-e4ba-40ae-a3c7-e43e97f4bb4a"
+    },
+    {
+        "arch": "ARM64",
+        "id": "57d7e3ea-1ae1-42ba-b687-13e6f254dce1"
+    }],
+    "download": {
+        "name": "26296.5001.240920-1808.ge_prerelease_SERVER_X64FRE_zh-cn.iso",
+        "link": [],
+        "arch": "AMD64",
+        "md5": "",
+        "sha256": ""
+    }
+}
