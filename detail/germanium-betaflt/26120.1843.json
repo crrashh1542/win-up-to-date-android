@@ -8,18 +8,18 @@
     },
     "release": {
         "channel": "Dev",
-        "time": "2024-08-09 21:00",
-        "url": "https://blogs.windows.com/windows-insider/2024/08/19/announcing-windows-11-insider-preview-build-26120-1542-dev-channel/",
+        "time": "2024-09-20 17:00",
+        "url": "https://blogs.windows.com/windows-insider/2024/09/20/announcing-windows-11-insider-preview-build-26120-1843-dev-channel/",
         "announcePlace": "Windows Blogs"
     },
     "nav": {
         "previous": {
             "category": "germanium-betaflt",
-            "build": "26120.1340"
+            "build": "26120.1542"
         },
         "next": {
-            "category": "germanium-upstream",
-            "build": "26200.5001"
+            "category": "germanium-betaflt",
+            "build": "26120.1912"
         }
     },
     "belongsTo": {
