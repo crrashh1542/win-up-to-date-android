@@ -1,25 +1,25 @@
 {
     "build": {
-        "number": "26100.1586",
+        "number": "26100.1591",
         "branch": "ge_release_svc_prod3",
-        "compileTime": "2024-08-12 18:20",
+        "compileTime": "2024-08-20 21:19",
         "arch": ["AMD64", "ARM64"],
         "counterpart": "Client"
     },
     "release": {
-        "channel": "Release Preview",
+        "channel": "General",
         "time": "2024-08-19 21:00",
-        "url": "https://blogs.windows.com/windows-insider/2024/08/19/releasing-windows-11-build-26100-1586-to-the-release-preview-channel/",
-        "announcePlace": "Windows Blogs"
+        "url": "https://support.microsoft.com/topic/5d299921-2b27-4fe0-b414-c2336371b552",
+        "announcePlace": "Microsoft Support"
     },
     "nav": {
         "previous": {
             "category": "germanium",
-            "build": "26100.1457"
+            "build": "26100.1586"
         },
         "next": {
             "category": "germanium",
-            "build": "26100.1591"
+            "build": "26100.1656"
         }
     },
     "belongsTo": {
@@ -28,20 +28,20 @@
     },
     "updateId": [{
         "arch": "AMD64",
-        "id": "7db0a8d0-e2b9-48c8-8d7b-e34e431f0954"
+        "id": "df9477d8-1bf3-4847-b928-24e20e441486"
     },
     {
         "arch": "ARM64",
-        "id": "d03da148-7de5-40f0-a5d4-547a29ec1331"
+        "id": "b493cae3-4602-4915-91e7-5dc951faecd8"
     }],
     "download": {
         "name": "Windows11.0-KB5041865-x64.msu",
         "link": [{
-            "url": "https://pan.huang1111.cn/s/MNeAgCx",
+            "url": "https://pan.huang1111.cn/s/aE9VaFG",
             "source": "OneDrive"
         }],
         "arch": "AMD64",
-        "md5": "3a7ce41ffa5c20184058f40d74f0fa09",
-        "sha256": "88b424677cf3c99b29d26193659e8c85c3f3884aaec2556f1abdfcbc1753a1eb"
+        "md5": "2d2c9259b42d85da605ed2b315ea4856",
+        "sha256": "73451e2ee214443ba5d6c0326f8e3d4022a8f64874fef31aa882c74da882d452"
     }
 }
