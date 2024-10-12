@@ -24,7 +24,7 @@
             {
                 "name": "Beta",
                 "style": "color-green",
-                "version": "22635.4300",
+                "version": "22635.4367",
                 "branch": "ni_release_betaflt_svc_prod1",
                 "codename": "Nickel",
                 "period": "23H2"
@@ -50,7 +50,7 @@
             {
                 "name": "发布预览",
                 "style": "color-purple",
-                "version": "22631.4317",
+                "version": "22631.4387",
                 "branch": "23h2_ni_release_svc_prod1",
                 "codename": "Nickel",
                 "period": "23H2"
