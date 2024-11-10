@@ -4,8 +4,8 @@
 
 此处的目录结构与网站的目录/路由结构基本类似，但是本仓库存储所有内容均为原项目所需要的数据。
 
-* [`latest-versions.json` 最新版本](./instructions/latest.md)
+* [`latest-versions.json` 最新版本](./_instructions/latest.md)
 
-* [`category` 版本列表](./instructions/category.md)
+* [`category` 版本列表](./_instructions/category.md)
 
-* [`detail` 版本详情](./instructions/detail.md)
+* [`detail` 版本详情](./_instructions/detail.md)
