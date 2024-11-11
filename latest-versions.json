@@ -16,7 +16,7 @@
                 "name": "Dev",
                 "style": "color-orange",
                 "version": "26120.2222",
-                "branch": "ge_release_svc_betaflt_im",
+                "branch": "ge_release_svc_betaflt_prod1",
                 "codename": "Germanium",
                 "category": "germanium-betaflt",
                 "period": "24H2"
@@ -24,7 +24,7 @@
             {
                 "name": "Beta",
                 "style": "color-green",
-                "version": "22635.4440",
+                "version": "22635.4445",
                 "branch": "ni_release_betaflt_svc_prod1",
                 "codename": "Nickel",
                 "period": "23H2"
