@@ -1,6 +1,6 @@
 {
     "build": {
-        "number": "26100.2314",
+        "number": "26100.2448",
         "branch": "ge_release_svc_prod2",
         "compileTime": "2024-11-08 18:06",
         "arch": ["AMD64", "ARM64"],
@@ -18,8 +18,8 @@
             "build": "26100.2314"
         },
         "next": {
-            "category": "germanium-betaflt",
-            "build": "26120.461"
+            "category": "germanium",
+            "build": "26100.2454"
         }
     },
     "belongsTo": {
