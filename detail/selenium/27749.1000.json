@@ -14,12 +14,16 @@
     },
     "featureIds": {
         "url": "https://github.com/riverar/mach2/blob/master/features/rs_prerelease/amd64/27744.1000_27749.1000_diff.patch",
-        "fileName": "27729.1000_27744.1000_diff.patch"
+        "fileName": "27744.1000_27749.1000_diff.patch"
     },
     "nav": {
         "previous": {
             "category": "selenium",
             "build": "27744.1000"
+        },
+        "next": {
+            "category": "selenium",
+            "build": "27754.1000"
         }
     },
     "belongsTo": {

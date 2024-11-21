@@ -6,7 +6,7 @@
             {
                 "name": "Canary",
                 "style": "color-amber",
-                "version": "27749.1000",
+                "version": "27754.1000",
                 "branch": "rs_prerelease",
                 "codename": "Selenium",
                 "category": "selenium",
@@ -79,8 +79,8 @@
         "releases": [{
                 "name": "发布预览",
                 "style": "color-purple",
-                "version": "19045.5194",
-                "branch": "22h2_release_svc_prod2",
+                "version": "19045.5196",
+                "branch": "22h2_release_svc_prod3",
                 "codename": "Vibranium",
                 "period": "22H2"
             },
