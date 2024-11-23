@@ -15,8 +15,8 @@
             {
                 "name": "Dev",
                 "style": "color-orange",
-                "version": "26120.2222",
-                "branch": "ge_release_svc_betaflt_prod1",
+                "version": "26120.2415",
+                "branch": "ge_release_svc_betaflt_im",
                 "codename": "Germanium",
                 "category": "germanium-betaflt",
                 "period": "24H2"
