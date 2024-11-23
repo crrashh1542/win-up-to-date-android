@@ -26,12 +26,20 @@
     },
     "updateId": [
     {
-        "arch": "AMD64",
+        "arch": "AMD64 (1)",
         "id": "5a1853ef-d285-4946-a1fa-7ca4f5bc10d8"
     },
     {
-        "arch": "ARM64",
+        "arch": "AMD64 (2)",
+        "id": "a0300238-bf98-4de5-975f-2134a6808b3a"
+    },
+    {
+        "arch": "ARM64 (1)",
         "id": "ddd5b1a0-6f79-408b-ad0c-b177d72ed65b"
+    },
+    {
+        "arch": "ARM64 (2)",
+        "id": "a0300238-bf98-4de5-975f-2134a6808b3a"
     }],
     "download": {
         "name": "Windows11.0-KB5046740-x64.msu",
