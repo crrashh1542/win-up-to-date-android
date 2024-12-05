@@ -20,6 +20,10 @@
         "previous": {
             "category": "selenium",
             "build": "27749.1000"
+        },
+        "next": {
+            "catgory": "selenium",
+            "build": "27758.1000"
         }
     },
     "belongsTo": {
