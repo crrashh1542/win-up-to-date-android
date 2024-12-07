@@ -141,7 +141,7 @@
             {
                 "name": "预览版 (v.Next)",
                 "style": "color-amber",
-                "version": "26311.5000",
+                "version": "26334.5000",
                 "branch": "ge_prerelease",
                 "codename": "Germanium",
                 "category": "germanium-upstream",
