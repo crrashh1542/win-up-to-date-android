@@ -32,8 +32,8 @@
             {
                 "name": "发布预览",
                 "style": "color-purple",
-                "version": "26100.2454",
-                "branch": "ge_release_svc_prod3",
+                "version": "26100.2605",
+                "branch": "ge_release_svc_prod1",
                 "codename": "Germanium",
                 "category": "germanium",
                 "period": "24H2"
@@ -41,7 +41,7 @@
             {
                 "name": "正式通道",
                 "style": "color-theme",
-                "version": "26100.2314",
+                "version": "26100.2605",
                 "branch": "ge_release_svc_prod1",
                 "codename": "Germanium",
                 "category": "germanium",
@@ -50,7 +50,7 @@
             {
                 "name": "WNC",
                 "style": "color-theme",
-                "version": "26100.2314",
+                "version": "26100.2605",
                 "branch": "ge_release_svc_prod1",
                 "codename": "Germanium",
                 "category": "germanium",
@@ -159,7 +159,7 @@
             {
                 "name": "LTSC (2025)",
                 "style": "color-theme",
-                "version": "26100.2314",
+                "version": "26100.2605",
                 "branch": "ge_release_svc_prod1",
                 "codename": "Germanium",
                 "category": "germanium",
@@ -255,7 +255,7 @@
             {
                 "name": "Preview",
                 "style": "color-purple",
-                "version": "26100.2314",
+                "version": "26100.2605",
                 "branch": "ge_release_svc_prod1",
                 "codename": "Germanium",
                 "category": "germanium",

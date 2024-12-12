@@ -8,7 +8,9 @@
     },
     "release": {
         "channel": "Release Preview",
-        "time": "2024-11-19 18:00"
+        "time": "2024-11-19 18:00",
+        "url": "https://support.microsoft.com/topic/2040f716-b719-482a-8aff-f7f02c79b147",
+        "announcePlace": "Microsoft Support"
     },
     "nav": {
         "previous": {
@@ -16,8 +18,8 @@
             "build": "26100.2448"
         },
         "next": {
-            "category": "germanium-betaflt",
-            "build": "26120.461"
+            "category": "germanium",
+            "build": "26100.2605"
         }
     },
     "belongsTo": {
