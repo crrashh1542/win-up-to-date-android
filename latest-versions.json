@@ -6,7 +6,7 @@
             {
                 "name": "Canary",
                 "style": "color-amber",
-                "version": "27766.1000",
+                "version": "27768.1000",
                 "branch": "rs_prerelease",
                 "codename": "Selenium",
                 "category": "selenium",
