@@ -24,7 +24,7 @@
             {
                 "name": "Beta",
                 "style": "color-green",
-                "version": "22635.4660",
+                "version": "22635.4800",
                 "branch": "ni_release_betaflt_svc_prod1",
                 "codename": "Nickel",
                 "period": "23H2"
@@ -59,8 +59,8 @@
             {
                 "name": "发布预览",
                 "style": "color-purple",
-                "version": "22631.4751",
-                "branch": "23h2_ni_release_svc_prod1",
+                "version": "22631.4825",
+                "branch": "23h2_ni_release_svc_prod3",
                 "codename": "Nickel",
                 "period": "23H2"
             },
@@ -88,8 +88,8 @@
         "releases": [{
                 "name": "发布预览",
                 "style": "color-purple",
-                "version": "19045.5371",
-                "branch": "22h2_release_svc_prod1",
+                "version": "19045.5435",
+                "branch": "22h2_release_svc_prod3",
                 "codename": "Vibranium",
                 "period": "22H2"
             },
