@@ -59,7 +59,7 @@
             {
                 "name": "发布预览",
                 "style": "color-purple",
-                "version": "22631.4825",
+                "version": "22631.4830",
                 "branch": "23h2_ni_release_svc_prod3",
                 "codename": "Nickel",
                 "period": "23H2"
@@ -88,7 +88,7 @@
         "releases": [{
                 "name": "发布预览",
                 "style": "color-purple",
-                "version": "19045.5435",
+                "version": "19045.5440",
                 "branch": "22h2_release_svc_prod3",
                 "codename": "Vibranium",
                 "period": "22H2"
