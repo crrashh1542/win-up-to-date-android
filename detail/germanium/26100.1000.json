@@ -9,7 +9,7 @@
     "release": {
         "channel": "Relase Preview",
         "time": "2024-06-28 17:00",
-        "url": "https://support.microsoft.com/en-us/topic/b123a499-2880-4ce7-936e-3f0c0713abe5",
+        "url": "https://support.microsoft.com/topic/b123a499-2880-4ce7-936e-3f0c0713abe5",
         "announcePlace": "Microsoft Support"
     },
     "nav": {
@@ -37,7 +37,7 @@
     "download": {
         "name": "Windows11.0-KB5039304-x64.msu",
         "link": [{
-            "url": "https://pan.huang1111.cn/s/EEWQcb",
+            "url": "https://disk.crrashh.com/PC/Windows/MSU/drive001/26100.1000/Windows11.0-KB5039304-x64.msu",
             "source": "OneDrive"
         }],
         "arch": "AMD64",

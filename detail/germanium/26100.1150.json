@@ -9,7 +9,7 @@
     "release": {
         "channel": "General",
         "time": "2024-06-28 17:00",
-        "url": "https://support.microsoft.com/en-us/topic/954078e3-6c6b-4b6d-885e-f5aa534524a6",
+        "url": "https://support.microsoft.com/topic/954078e3-6c6b-4b6d-885e-f5aa534524a6",
         "announcePlace": "Microsoft Support"
     },
     "nav": {
@@ -45,7 +45,7 @@
     "download": {
         "name": "Windows11.0-KB5040435-x64.msu",
         "link": [{
-            "url": "https://pan.huang1111.cn/s/3eBNAsm",
+            "url": "https://disk.crrashh.com/PC/Windows/MSU/drive001/26100.1150/Windows11.0-KB5040435-x64.msu",
             "source": "OneDrive"
         }],
         "arch": "AMD64",
